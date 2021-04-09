@@ -1,2 +1,3 @@
-big-data.zip
-data/
+big-data.zip 
+# ignore data folder
+data/ # the data is too big 
